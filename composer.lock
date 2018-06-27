@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "89b56081cbb94fa333f5c621c6a2dadf",
+    "packages": [
+        {
+            "name": "sskaje/mqtt",
+            "version": "1.0.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sskaje/mqtt.git",
+                "reference": "6097615414614d6f1a014541a3c7f8d9518edcba"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sskaje/mqtt/zipball/6097615414614d6f1a014541a3c7f8d9518edcba",
+                "reference": "6097615414614d6f1a014541a3c7f8d9518edcba",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sskaje",
+                    "email": "sskaje@gmail.com",
+                    "homepage": "https://sskaje.me"
+                }
+            ],
+            "description": "sskaje's MQTT Class",
+            "time": "2014-07-18T06:02:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "sskaje/mqtt": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
